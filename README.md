@@ -68,11 +68,20 @@ called Shape-descriptors for Hu Moments
 
 ![image](https://user-images.githubusercontent.com/55109738/117735089-ce6db480-b1c2-11eb-9c89-dc92722eddfd.png)
 
+Block Diagram of Hu Moments
+
 ![image](https://user-images.githubusercontent.com/55109738/117735130-e5140b80-b1c2-11eb-9376-1110eb995c9c.png)
 
-![image](https://user-images.githubusercontent.com/55109738/117735181-f78e4500-b1c2-11eb-8223-a7252d93ed0d.png)
+Binary Image of a Leaf
 
-![image](https://user-images.githubusercontent.com/55109738/117735221-0b39ab80-b1c3-11eb-8c4c-6664bd763bc2.png)
+![image](https://user-images.githubusercontent.com/55109738/117735430-6c617f00-b1c3-11eb-89f1-27054e636cbe.png)
+
+Training of Hu Moments
+
+![image](https://user-images.githubusercontent.com/55109738/117735496-89964d80-b1c3-11eb-9157-18854d2b9bf5.png)
+
+Comparison Graph for Algorithms with and
+without Hu Moments
 
 
 After performing the experiments and training the
