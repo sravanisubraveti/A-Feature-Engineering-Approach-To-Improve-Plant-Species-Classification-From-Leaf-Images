@@ -64,15 +64,14 @@ Transform (SIFT)and Speeded Up Robust Features
 Hu Moments which are similar to Shape features in
 a leaf like area, perimeter, circularity, etc which are
 called Shape-descriptors for Hu Moments
+![image](https://user-images.githubusercontent.com/55109738/117735089-ce6db480-b1c2-11eb-9c89-dc92722eddfd.png)
 
-![image](https://user-images.githubusercontent.com/55109738/117734903-6a4af080-b1c2-11eb-893b-cdc5564af54e.png)
+![image](https://user-images.githubusercontent.com/55109738/117735130-e5140b80-b1c2-11eb-9376-1110eb995c9c.png)
 
-![image](https://user-images.githubusercontent.com/55109738/117734914-72a32b80-b1c2-11eb-83e9-44311d2821af.png)
+![image](https://user-images.githubusercontent.com/55109738/117735181-f78e4500-b1c2-11eb-8223-a7252d93ed0d.png)
 
+![image](https://user-images.githubusercontent.com/55109738/117735221-0b39ab80-b1c3-11eb-8c4c-6664bd763bc2.png)
 
-![image](https://user-images.githubusercontent.com/55109738/117734923-78990c80-b1c2-11eb-9521-3e74168d6567.png)
-
-![image](https://user-images.githubusercontent.com/55109738/117734959-8e0e3680-b1c2-11eb-823d-3a824706350c.png)
 
 After performing the experiments and training the
 classifier on various combinations of extracted features,
